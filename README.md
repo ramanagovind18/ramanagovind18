@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react,django**
 
-- 📫 How to reach me **ramanagovind2680@gmail.com**
+- 📫 How to reach me **ramanagovind2680@gmail.com || https://www.linkedin.com/in/ramanagovindgp/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
